@@ -1,0 +1,13 @@
+#party {
+  height: 50px;
+  width: 50px;
+  margin-right: 50px;
+  border-radius: 20px;
+}
+
+#cocktails {
+  height: 50px;
+  width: 50px;
+  margin-left: 50px;
+  border-radius: 20px;
+}

@@ -1,0 +1,41 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+h1 {
+    text-align: center;
+    color: Pink;
+}
+
+p {
+    font-size: 28px;
+    color: whitesmoke;
+}
+
+.about-me {
+    position: absolute;
+    bottom: 0px;
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+a {
+    color: orange;
+}
+  
+a:visited {
+    color: orange;
+}
+
+a:hover {
+    color: crimson;
+}
+
+a:active {
+    color: pink;
+}

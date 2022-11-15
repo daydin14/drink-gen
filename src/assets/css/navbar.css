@@ -1,0 +1,16 @@
+.nav {
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.nav button {
+    padding: 10px;
+    border-radius: 20px;
+    width: fit-content;
+    background-color: rgba(0, 0, 0, 0.116);
+    color: pink;
+    font-size: 18px;
+}
