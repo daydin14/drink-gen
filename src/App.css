@@ -1,6 +1,4 @@
 body {
   background: url(assets/imgs/background.jpg);
-  background-repeat: none;
-  background-size: 100vw;
-  width: 100%;
+  background-size: cover;
 }
