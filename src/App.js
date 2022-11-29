@@ -22,12 +22,12 @@ function App() {
         <Home />
       </Route>
 
-      <Route path="/random">
-        <Random />
-      </Route>
-
       <Route path="/search">
         <Search />
+      </Route>
+
+      <Route path="/random">
+        <Random />
       </Route>
 
       <Footer />

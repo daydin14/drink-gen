@@ -1,6 +1,6 @@
 body {
   background: url(assets/imgs/background.jpg);
   background-repeat: none;
-  background-size: contain;
+  background-size: 100vw;
   width: 100%;
 }
