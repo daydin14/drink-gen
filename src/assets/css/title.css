@@ -1,10 +1,14 @@
-#title {
-    /* background-color: rgba(0, 0, 0, 0.315); */
-    background-image: linear-gradient(to right, rgb(250, 56, 224), rgb(42, 108, 250));
-    color: rgb(0, 0, 0);
+.title #title {
+  /* background-color: rgba(0, 0, 0, 0.315); */
+  background-image: linear-gradient(
+    to right,
+    rgb(250, 56, 224),
+    rgb(42, 108, 250)
+  );
+  color: rgb(0, 0, 0);
 
-    width: fit-content;
-    text-align: center;
-    padding: 15px;
-    border-radius: 20px;
+  width: fit-content;
+  text-align: center;
+  padding: 15px;
+  border-radius: 20px;
 }

@@ -2,10 +2,11 @@ import React from "react";
 import { Route } from "react-router-dom";
 
 // Styling
-import './App.css';
+import "./App.css";
 
 // Components
-import Title from "./components/Title"
+import Title from "./components/Title";
+import Footer from "./components/Footer";
 
 // Pages
 import Home from "./pages/Home";
@@ -29,6 +30,7 @@ function App() {
         <Search />
       </Route>
 
+      <Footer />
     </div>
   );
 }

@@ -1,23 +1,28 @@
-h1, h2 {
-    text-align: center;
-    color: Pink;
+.random h1,
+.random h2 {
+  text-align: center;
+  color: Pink;
 }
 
-p {
-    text-align: center;
-    font-size: 28px;
-    color: whitesmoke;
+.random p {
+  text-align: center;
+  font-size: 28px;
+  color: whitesmoke;
 }
 
-#random-btn {
-    text-align: center;
-    width: fit-content;
-    font-size: 30px;
-    background-image: linear-gradient(to right, rgb(250, 56, 224), rgb(42, 108, 250));
-    border-radius: 20px;
-    padding: 30px;
+.random #random-btn {
+  text-align: center;
+  width: fit-content;
+  font-size: 30px;
+  background-image: linear-gradient(
+    to right,
+    rgb(250, 56, 224),
+    rgb(42, 108, 250)
+  );
+  border-radius: 20px;
+  padding: 30px;
 }
 
-#random-btn :hover {
-    color: blue;
+.random #random-btn :hover {
+  color: blue;
 }

@@ -8,15 +8,17 @@ import Gifs from "../components/Gifs";
 import Navbar from "./Navbar";
 
 function Title() {
-    return(
-        <div align="center">
-            <h1 id="title">Dave's Drink Generator</h1>
-            <Gifs/>
-            <br/><br/>
-            <Navbar/>
-            <br/><br/>
-        </div>
-    );
+  return (
+    <div class="title" align="center">
+      <h1 id="title">Dave's Drink Generator</h1>
+      <Gifs />
+      <br />
+      <br />
+      <Navbar />
+      <br />
+      <br />
+    </div>
+  );
 }
 
 export default Title;

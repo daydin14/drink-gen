@@ -1,0 +1,25 @@
+.about-me {
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+
+  text-align: center;
+  font-size: 18px;
+  bottom: 0;
+}
+
+.about-me a {
+  color: orange;
+}
+
+.about-me a:visited {
+  color: orange;
+}
+
+.about-me a:hover {
+  color: crimson;
+}
+
+.about-me a:active {
+  color: pink;
+}

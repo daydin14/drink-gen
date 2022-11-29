@@ -7,35 +7,12 @@
   margin-left: 50px;
 } */
 
-h1 {
+.home h1 {
   text-align: center;
   color: Pink;
 }
 
-p {
+.home p {
   font-size: 28px;
   color: whitesmoke;
-}
-
-.about-me {
-  position: absolute;
-  bottom: 0px;
-  margin-bottom: 10px;
-  font-size: 18px;
-}
-
-a {
-  color: orange;
-}
-
-a:visited {
-  color: orange;
-}
-
-a:hover {
-  color: crimson;
-}
-
-a:active {
-  color: pink;
 }
