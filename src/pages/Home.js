@@ -10,14 +10,6 @@ function Home() {
         Use the search function to filter drinks to your liking or jump be
         adventurous and try something new at random!
       </p>
-
-      {/* <div class="about-me" align="center">
-        <h4>
-          <a href="https://www.linkedin.com/in/daydin14/" target="_blank">
-            Created by David Aydin © 2022
-          </a>
-        </h4>
-      </div> */}
     </div>
   );
 }
