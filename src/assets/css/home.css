@@ -1,11 +1,11 @@
-/* .home {
+.home {
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-right: 50px;
-  margin-left: 50px;
-} */
+  margin-right: 70px;
+  margin-left: 70px;
+}
 
 .home h1 {
   text-align: center;
