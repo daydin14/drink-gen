@@ -5,7 +5,7 @@ function Footer() {
   return (
     <div class="about-me">
       <h4>
-        <a href="https://www.linkedin.com/in/daydin14/" target="_blank">
+        <a href="https://www.linkedin.com/in/daydin14/" target="_blank" rel="noreferrer">
           Created by David Aydin © 2022
         </a>
       </h4>
